@@ -1,0 +1,17 @@
+
+{
+  "short_name": "FinSmart",
+  "name": "FinSmart: Умный Трекер Расходов",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10149/10149458.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#10b981",
+  "background_color": "#f8fafc"
+}
